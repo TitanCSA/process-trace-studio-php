@@ -1,5 +1,11 @@
 # Process-Trace-Studio PHP SDK
 
+<!-- simple-start:start -->
+Use Process-Trace-Studio from a PHP app.
+
+**Start here.** Run `composer require titancsa/process-trace-studio`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
